@@ -10,17 +10,16 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".MainActivity"
-            android:configChanges="orientation|screenSize"></activity>
-        <activity android:name=".intentPractice"></activity>
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".intentPractice" />
         <activity android:name=".LinearCalculator">
-
+        </activity>
+        <activity android:name=".RelativeLayoutFacebook">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-
-        </activity>
+            </intent-filter></activity>
     </application>
 
 </manifest>
