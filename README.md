@@ -1,5 +1,5 @@
 # Calculator Using LinearLayout
-Linear Layout Practice
+Relative Layout Practice
 
-# Nexus 10
-![device-2017-10-26-120917](https://user-images.githubusercontent.com/4871681/32037417-0bc5763c-ba47-11e7-8352-6da8f05ac710.png)
+# Generic Phone
+![device-2017-10-26-144803](https://user-images.githubusercontent.com/4871681/32043537-da89dd22-ba5c-11e7-9b34-ac9581446b5f.png)
